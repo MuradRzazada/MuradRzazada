@@ -78,10 +78,6 @@ public class Murad {
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuradRzazada&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=6366F1&icon_color=6366F1" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradRzazada&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=6366F1" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuradRzazada&hide_border=true&bg_color=00000000&color=6366F1&line=6366F1&point=38BDF8&area=true&area_color=6366F1" alt="Activity" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuradRzazada&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
 </div>
 
 ### 🤝 Connect
