@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/level-middle-A855F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/uptime-7%2F24-22C55E?style=for-the-badge" />
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/MuradRzazada/MuradRzazada/output/github-contribution-grid-snake-dark.svg" width="100%" alt="" />
 
 </div>
 
