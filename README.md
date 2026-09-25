@@ -70,14 +70,6 @@ public class Murad {
 | **Testing** | JUnit 5 · Mockito |
 | **Ways of working** | Agile · Scrum · Kanban · Jira · Confluence |
 
-### 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=MuradRzazada&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=6366F1&text_color=808080" />
-
-</div>
-
 ### 🤝 Connect
 
 <p align="center">
