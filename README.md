@@ -22,14 +22,13 @@
 @Slf4j
 public class Murad {
 
-    private static final String ROLE  = "Middle Backend Java Engineer @ ABB Innovation";
-    private static final String FOCUS = "financial microservices that must not blink";
+    private static final String ROLE = "Middle Backend Java Engineer @ ABB Innovation";
 
     private final List<String> stack = List.of(
             "Java 21", "Spring Boot 3.x", "Kafka", "PostgreSQL", "Redis", "Camunda", "OpenShift"
     );
 
-    @Scheduled(cron = "0 * * * * *")          // 7/24 — heç vaxt dayanmır
+    @Scheduled(cron = "0 * * * * *")          // 7/24
     public void tick() {
         coffee()
             .thenApply(this::ship)
@@ -75,8 +74,7 @@ public class Murad {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuradRzazada&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=6366F1&icon_color=6366F1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradRzazada&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=6366F1" />
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=MuradRzazada&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=6366F1&text_color=808080" />
 
 </div>
 
