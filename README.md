@@ -84,10 +84,6 @@ public class Murad {
 
 </div>
 
-### 🗣️ Languages
-
-`Azerbaijani — native` · `English — intermediate` · `Russian — beginner`
-
 ### 🤝 Connect
 
 <p align="center">
@@ -97,7 +93,7 @@ public class Murad {
 </p>
 
 <div align="center">
-<sub><i>“Əgər əl ilə iki dəfə etmisənsə — üçüncüsünü skript yazıb et.”</i></sub>
+<sub><i>// TODO: refactor this properly<br/>— committed 2024, still running in production, still making money</i></sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:4338CA&height=110&section=footer" alt="" />
