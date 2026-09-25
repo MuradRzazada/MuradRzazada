@@ -54,7 +54,7 @@ public class Murad {
 <div align="center">
 
 **Languages & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,nodejs,py&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js&perline=5" />
 
 **Data & Messaging**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,kafka&perline=5" />
