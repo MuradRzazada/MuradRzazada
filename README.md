@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:6366F1,100:38BDF8&height=190&section=header&text=Murad%20Rzazada&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Middle%20Backend%20Java%20Engineer%20%C2%B7%20ABB%20Innovation&descSize=17&descAlignY=54&animation=fadeIn" alt="Murad Rzazada" />
+<img width="100%" src="https://raw.githubusercontent.com/MuradRzazada/MuradRzazada/main/assets/matrix-header.svg" alt="Murad Rzazada — Middle Backend Java Engineer" />
 
 <div align="center">
 
