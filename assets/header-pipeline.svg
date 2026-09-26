@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Murad Rzazada - Middle Backend Java Engineer">
+<title>Murad Rzazada - Middle Backend Java Engineer</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:13px}
+.ttl{font-family:"Segoe UI",Ubuntu,-apple-system,Helvetica,Arial,sans-serif;font-size:23px;fill:#f2f5fb;font-weight:600;letter-spacing:.3px}
+.sub{font-size:10.5px;fill:#5d6577;letter-spacing:3.2px}
+.foot{font-size:10px;fill:#454c5c;letter-spacing:1.8px}
+@keyframes box{0%,4%{stroke:#272d3a;fill:#141821}9%,72%{stroke:#22c55e;fill:#12251a}80%,100%{stroke:#272d3a;fill:#141821}}
+@keyframes txt{0%,4%{fill:#6e7687}9%,72%{fill:#d5f5e0}80%,100%{fill:#6e7687}}
+@keyframes dot{0%,4%{fill:#39404f}9%,72%{fill:#22c55e}80%,100%{fill:#39404f}}
+@keyframes link{0%,4%{stroke:#272d3a}9%,72%{stroke:#22c55e}80%,100%{stroke:#272d3a}}
+.s0 rect{animation:box 9.0s 0.0s infinite}
+.s0 text{animation:txt 9.0s 0.0s infinite}
+.s0 circle{animation:dot 9.0s 0.0s infinite}
+.l0{animation:link 9.0s 0.62s infinite}
+.s1 rect{animation:box 9.0s 1.25s infinite}
+.s1 text{animation:txt 9.0s 1.25s infinite}
+.s1 circle{animation:dot 9.0s 1.25s infinite}
+.l1{animation:link 9.0s 1.87s infinite}
+.s2 rect{animation:box 9.0s 2.5s infinite}
+.s2 text{animation:txt 9.0s 2.5s infinite}
+.s2 circle{animation:dot 9.0s 2.5s infinite}
+.l2{animation:link 9.0s 3.12s infinite}
+.s3 rect{animation:box 9.0s 3.75s infinite}
+.s3 text{animation:txt 9.0s 3.75s infinite}
+.s3 circle{animation:dot 9.0s 3.75s infinite}
+.l3{animation:link 9.0s 4.37s infinite}
+.s4 rect{animation:box 9.0s 5.0s infinite}
+.s4 text{animation:txt 9.0s 5.0s infinite}
+.s4 circle{animation:dot 9.0s 5.0s infinite}
+@media (prefers-reduced-motion:reduce){rect,text,circle,line{animation:none!important}}
+</style>
+<rect width="900" height="230" fill="#0f1117"/>
+<text class="ttl" x="450" y="46" text-anchor="middle">Murad Rzazada</text>
+<text class="sub" x="450" y="68" text-anchor="middle">MIDDLE BACKEND JAVA ENGINEER &#183; ABB INNOVATION</text>
+<line class="l0" x1="200" y1="134" x2="232" y2="134" stroke="#272d3a" stroke-width="1.6"/>
+<line class="l1" x1="356" y1="134" x2="388" y2="134" stroke="#272d3a" stroke-width="1.6"/>
+<line class="l2" x1="512" y1="134" x2="544" y2="134" stroke="#272d3a" stroke-width="1.6"/>
+<line class="l3" x1="668" y1="134" x2="700" y2="134" stroke="#272d3a" stroke-width="1.6"/>
+<g class="s0"><rect x="76" y="112" width="124" height="44" rx="8" fill="#141821" stroke="#272d3a" stroke-width="1.3"/><circle cx="98" cy="134" r="4.5" fill="#39404f"/><text x="116" y="138.5" fill="#6e7687">commit</text></g>
+<g class="s1"><rect x="232" y="112" width="124" height="44" rx="8" fill="#141821" stroke="#272d3a" stroke-width="1.3"/><circle cx="254" cy="134" r="4.5" fill="#39404f"/><text x="272" y="138.5" fill="#6e7687">build</text></g>
+<g class="s2"><rect x="388" y="112" width="124" height="44" rx="8" fill="#141821" stroke="#272d3a" stroke-width="1.3"/><circle cx="410" cy="134" r="4.5" fill="#39404f"/><text x="428" y="138.5" fill="#6e7687">test</text></g>
+<g class="s3"><rect x="544" y="112" width="124" height="44" rx="8" fill="#141821" stroke="#272d3a" stroke-width="1.3"/><circle cx="566" cy="134" r="4.5" fill="#39404f"/><text x="584" y="138.5" fill="#6e7687">scan</text></g>
+<g class="s4"><rect x="700" y="112" width="124" height="44" rx="8" fill="#141821" stroke="#272d3a" stroke-width="1.3"/><circle cx="722" cy="134" r="4.5" fill="#39404f"/><text x="740" y="138.5" fill="#6e7687">deploy</text></g>
+<text class="foot" x="450" y="196" text-anchor="middle">JAVA 21 &#183; SPRING BOOT 3.x &#183; KAFKA &#183; POSTGRESQL &#183; OPENSHIFT</text>
+<text class="foot" x="450" y="214" text-anchor="middle" fill="#22c55e">UPTIME 7/24</text>
+</svg>
