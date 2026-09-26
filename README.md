@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/MuradRzazada/MuradRzazada/main/assets/matrix-header.svg" alt="Murad Rzazada — Middle Backend Java Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/MuradRzazada/MuradRzazada/main/assets/matrix-header.svg?v=2" alt="Murad Rzazada — Middle Backend Java Engineer" />
 
 <div align="center">
 
